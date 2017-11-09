@@ -1,0 +1,3 @@
+com\mycompany\bookcatalog\resource\BookResource.class
+com\mycompany\bookcatalog\service\BookService.class
+com\mycompany\bookcatalog\model\Book.class
